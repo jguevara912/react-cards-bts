@@ -14,7 +14,7 @@ function Card(props) {
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint recusandae officiis ratione minus atque vel adipisci voluptatum harum tempore illo dolores totam veritatis 
             </p>
             <a href={props.url} className="btn btn-outline-secondary rounded-0" target="_blank">
-                Go to this website
+                Go to {props.title}
             </a>
         </div>
     </div>

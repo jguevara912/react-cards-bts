@@ -10,7 +10,7 @@ const cards = [
         id: 1,
         title: 'web',
         image: image1,
-        url: 'http://jguevara912.com'
+        url: 'http://jguevara912.com',
     },
     {
         id: 2,
